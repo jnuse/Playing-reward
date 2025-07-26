@@ -3,8 +3,10 @@ const qbox = bd.querySelector('#QRBox')
 const mbox = bd.querySelector('#MainBox')
 const dbox = bd.querySelector('#donateBox')
 
-const qqr = 'images/QQPayQR.png'
-const aqr = 'images/AliPayQR.png'
+//const qqr = 'images/QQPayQR.png'
+//const aqr = 'images/AliPayQR.png'
+const qqr = 'images/WeChanQR.png'
+const aqr = 'images/WeChanQR.png'
 const wqr = 'images/WeChanQR.png'
 
 const showQR = (QR) => {
